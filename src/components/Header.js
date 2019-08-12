@@ -7,7 +7,7 @@ class Header extends Component {
         super()
 
         this.state={
-            title:'React App',
+            title:'React App AWS',
             userInput:'User text Here'
         }
         
