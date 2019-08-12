@@ -1,0 +1,1 @@
+{"version":3,"sources":["Header.css"],"names":[],"mappings":"AAAA,OACI,kBACJ,CACA,EACI,iBAAkB,CAClB,UACJ","file":"main.e2bfd105.chunk.css","sourcesContent":["header{\n    background:slateblue;\n}\np{\n    text-align: center;\n    color: #fff\n}"]}
