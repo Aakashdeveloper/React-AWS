@@ -3,7 +3,7 @@ const path = require('path');
 const http = require('http');
 const app = express();
 
-// Angular DIST output folder
+// Angular DIST output folderknkjnj
 app.use(express.static(path.join(__dirname, 'build')));
 
 // Send all other requests to the Angular app
